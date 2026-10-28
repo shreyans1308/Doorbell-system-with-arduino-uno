@@ -41,4 +41,4 @@ Simulation Link
 https://wokwi.com/projects/479142666384545793
 
 Conclusion
-The project demonstrates the use of Arduino digital input and output to control a buzzer. The required doorbell behaviour was achieved when the buzzer sounded during button presses and stopped upon release.
+The project demonstrates the use of Arduino digital input and output to control a buzzer. The required doorbell behaviour was achieved when the buzzer sounded during button presses and stopped upon release. 
