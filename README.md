@@ -31,11 +31,10 @@ Procedure
 7. Verify that the buzzer sounds only while the button is pressed.
 
 Output Screenshots
-1)Button Released
-
-
+Button Released
+![Button Released](button released.png)
 Button Pressed
-Add your screenshot here.
+![Button Pressed](button-pressed.png)
 
 Simulation Link
 https://wokwi.com/projects/479142666384545793
