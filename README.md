@@ -34,7 +34,8 @@ Output Screenshots
 Button Released
 ![Button Released](button released.png)
 Button Pressed
-![Button Pressed](button-pressed.png)
+![Button Pressed](button pressed.png)
+![Button Pressed](button pressed1.png)
 
 Simulation Link
 https://wokwi.com/projects/479142666384545793
